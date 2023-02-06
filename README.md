@@ -1,8 +1,6 @@
 <div align="center">
   
 ### Hi there 👋
-
-&nbsp;
   
 I'm Front-End Developer and I'm quite good at:
   
