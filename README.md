@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi there 👋
+### Hi there 👋, I'm Vinícius!
   
 I'm Front-End Developer and I'm quite good at:
   
