@@ -31,7 +31,7 @@ Currently learning/improving:
 &nbsp;
 
 ![](https://github-readme-stats.vercel.app/api?username=ventura-v&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura-v&layout=compact&langs_count=7&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura-v&layout=compact&theme=radical)
 
 &nbsp;
 
