@@ -14,8 +14,6 @@ I'm Front-End Developer and I'm quite good at:
 &nbsp;
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-&nbsp;
-
 Currently learning/improving:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
