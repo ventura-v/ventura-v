@@ -1,7 +1,9 @@
+<div align="center">
+  
 ### Hi there 👋
 
-<div align="center">
-
+&nbsp;
+  
 I'm Front-End Developer and I'm quite good at:
   
 ![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=35495E)
@@ -31,7 +33,6 @@ Currently learning/improving:
 &nbsp;
 
 ![](https://github-readme-stats.vercel.app/api?username=ventura-v&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura-v&layout=compact&theme=radical)
 
 &nbsp;
 
