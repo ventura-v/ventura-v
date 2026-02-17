@@ -41,10 +41,6 @@ Currently learning/improving:
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=ventura-v&theme=radical)
-
-&nbsp;
-
 Where else to find me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ventura-v)
